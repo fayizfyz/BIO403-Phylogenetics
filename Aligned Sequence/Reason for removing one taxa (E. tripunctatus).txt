@@ -1,0 +1,30 @@
+
+
+Initial Observation
+---------------------
+
+In the first phylogenetic reconstruction, the branch corresponding to E. tripunctatus was significantly longer than those of all other taxa, indicating either:
+- High sequence divergence,
+- Excessive missing data,
+- Potential misalignment or sequencing errors.
+
+This extreme branch length affected the overall scaling of the tree, compressing the relative visualization of other branches and complicating interpretation.
+
+Decision to Remove E. tripunctatus
+-----------------------------------
+
+To resolve this issue, the sequence corresponding to *E. tripunctatus* was excluded from the dataset. The tree was then reconstructed using MrBayes under the same model parameters.
+
+Outcome
+-------
+Upon removal of E. tripunctatus, the resulting tree displayed:
+- Proportionally scaled branches,
+- Improved clarity of relationships among taxa,
+- High posterior support at several key nodes.
+
+This modification enhanced the overall interpretability of the phylogeny without compromising the resolution or integrity of the remaining taxa
+
+Conclusion
+-----------
+The removal of E. tripunctatus was a necessary step to ensure an accurate and representative phylogenetic analysis. Future efforts may consider re-evaluating the E. tripunctatus sequence quality or replacing it with a better-curated sequence from a reliable database.
+
