@@ -28,3 +28,5 @@ Conclusion
 -----------
 The removal of E. tripunctatus was a necessary step to ensure an accurate and representative phylogenetic analysis. Future efforts may consider re-evaluating the E. tripunctatus sequence quality or replacing it with a better-curated sequence from a reliable database.
 
+
+# E. tripunctatus sequence was removed from the Aligned.fas file prior to phylogenetic analysis. The updated alignment file, excluding E. tripunctatus, was then used as the input for MrBayes.
